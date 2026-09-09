@@ -5,11 +5,12 @@ A complete static educational course built around:
 - 1995 Harley-Davidson Sportster 883 Hugger
 - 1996 Harley-Davidson Electra Glide Ultra Classic
 - 1998 Honda Shadow Aero 1100
+- 2025 Harley-Davidson Road Glide
 
 ## Course size
 
-- **56 lessons** across **18 modules**
-- ~63 hours 22 minutes including reading, videos and labs
+- **61 lessons** across **18 modules**
+- ~70 hours 22 minutes including reading, videos and labs
 - At least one YouTube video in every lesson
 - Garage exercises and knowledge checks
 - Master TOC with reading/video/lab/total duration
@@ -54,4 +55,4 @@ Videos are linked/embedded from YouTube; they are not copied into this repositor
 
 ## MDX compatibility
 
-Lesson answer disclosures and embedded YouTube players use Docusaurus/MDX-compatible JSX markup. This package includes the MDX markup fixes applied across all 56 lessons.
+Lesson answer disclosures and embedded YouTube players use Docusaurus/MDX-compatible JSX markup. This package includes the MDX markup fixes applied across all 61 lessons.

@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Complete Course Table of Contents
 
-**56 lessons** · Reading ~21h 58m · Video ~11h 54m · Garage/labs ~29h 30m · **Total ~63h 22m**
+**61 lessons** · Reading ~24h 23m · Video ~12h 40m · Garage/labs ~33h 25m · **Total ~70h 28m**
 
 Video runtimes are approximate/rounded and included in the totals. Capstone garage times are intentionally generous.
 
@@ -15,7 +15,7 @@ Video runtimes are approximate/rounded and included in the totals. Capstone gara
 |---|---:|---:|---:|---:|
 | [00.1 How to Use This Course](./00-course-orientation-safety/00.1-how-to-use-this-course.md) | 12m | ~8m | 10m | **~30m** |
 | [00.2 Garage Safety, Lifting & Work Planning](./00-course-orientation-safety/00.2-garage-safety-lifting-work-planning.md) | 16m | ~10m | 15m | **~41m** |
-| [00.3 Meet the Three Training Motorcycles](./00-course-orientation-safety/00.3-meet-the-three-training-motorcycles.md) | 18m | ~18m | 20m | **~56m** |
+| [00.3 Meet the Four Training Motorcycles](./00-course-orientation-safety/00.3-meet-the-four-training-motorcycles.md) | 18m | ~18m | 20m | **~56m** |
 
 ## Module 01: Motorcycle Anatomy & Systems
 
@@ -147,10 +147,20 @@ Video runtimes are approximate/rounded and included in the totals. Capstone gara
 | [16.2 Fuel Tanks, Seats, Bars, Controls and Accessories](./16-restoration-customization/16.2-fuel-tanks-seats-bars-controls-and-accessories.md) | 28m | ~18m | 35m | **~81m** |
 | [16.3 Wheels, Finish, Chrome and Cosmetic Work](./16-restoration-customization/16.3-wheels-finish-chrome-and-cosmetic-work.md) | 24m | ~18m | 30m | **~72m** |
 
-## Module 17: Capstone: Three-Bike Workshop
+## Module 17: Modern Motorcycle Systems — 2025 Road Glide
+
+| Lesson | Reading | Video | Garage | Total |
+|---|---:|---:|---:|---:|
+| [17.1 2025 Road Glide: Modern Architecture](./17-modern-motorcycle-systems/17.1-modern-road-glide-architecture.md) | 26m | ~12m | 30m | **~68m** |
+| [17.2 EFI, Sensors, ECM & Modern Diagnostics](./17-modern-motorcycle-systems/17.2-efi-sensors-ecm-and-modern-diagnostics.md) | 30m | ~13m | 35m | **~78m** |
+| [17.3 ABS, Traction Control & Ride Modes](./17-modern-motorcycle-systems/17.3-abs-traction-control-and-ride-modes.md) | 28m | ~5m | 25m | **~58m** |
+| [17.4 Skyline OS, Infotainment & Networked Controls](./17-modern-motorcycle-systems/17.4-skyline-os-infotainment-and-networked-controls.md) | 26m | ~4m | 25m | **~55m** |
+
+## Module 18: Capstone: Four-Bike Workshop
 
 | Lesson | Reading | Video | Garage | Total |
 |---|---:|---:|---:|---:|
 | [17.1 Complete Inspection: Sportster 883 Hugger](./17-capstone-three-bike-workshop/17.1-complete-inspection-sportster-883-hugger.md) | 30m | ~8m | 90m | **~128m** |
 | [17.2 Complete Inspection: Ultra Classic](./17-capstone-three-bike-workshop/17.2-complete-inspection-ultra-classic.md) | 30m | ~8m | 120m | **~158m** |
 | [17.3 Complete Inspection: Shadow Aero 1100](./17-capstone-three-bike-workshop/17.3-complete-inspection-shadow-aero-1100.md) | 30m | ~8m | 120m | **~158m** |
+| [18.4 Complete Inspection: 2025 Road Glide](./17-capstone-three-bike-workshop/18.4-complete-inspection-2025-road-glide.md) | 35m | ~12m | 120m | **~167m** |

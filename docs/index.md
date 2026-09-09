@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Personal Motorcycle Mechanic
 
-A self-paced, hands-on motorcycle maintenance, diagnosis, repair and restoration course built around three classic V-twins:
+A self-paced, hands-on motorcycle maintenance, diagnosis, repair and restoration course built around four V-twins spanning 30 years:
 
 - **1995 Harley-Davidson Sportster 883 Hugger**
 - **1996 Harley-Davidson Electra Glide Ultra Classic**
@@ -20,6 +20,6 @@ This is educational material, not a substitute for the factory service manual. B
 
 ## How the course works
 
-Every lesson combines original reading, at least one external YouTube video, a garage exercise, a three-bike comparison, and a short knowledge check. Video links remain hosted by their creators; this repository does **not** redistribute video content.
+Every lesson combines original reading, at least one external YouTube video, a garage exercise, a four-bike comparison, and a short knowledge check. Video links remain hosted by their creators; this repository does **not** redistribute video content.
 
 The course intentionally teaches diagnosis before replacement: **observe → measure → isolate → repair → verify**.

@@ -1,7 +1,7 @@
 // @ts-check
 const config = {
   title: 'Personal Motorcycle Mechanic',
-  tagline: 'Learn by comparing three classic V-twin motorcycles',
+  tagline: 'Learn by comparing four V-twin motorcycles spanning 30 years',
   favicon: 'img/favicon.svg',
 
   url: 'https://weichtg3.github.io',

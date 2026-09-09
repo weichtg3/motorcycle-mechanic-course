@@ -8,7 +8,7 @@ Videos are externally hosted and embedded for educational convenience. Some high
 
 | Video | Approx. runtime | Used for |
 |---|---:|---|
-| [Why Every Motorcyclist Should Own a Shop Manual](https://www.youtube.com/watch?v=bGG0Hyy-3n0) | ~8m | 00.1, 01.3, 02.2, 07.2, 14.1, 17.1, 17.2, 17.3 |
+| [Why Every Motorcyclist Should Own a Shop Manual](https://www.youtube.com/watch?v=bGG0Hyy-3n0) | ~8m | 00.1, 01.3, 02.2, 07.2, 14.1, 17.1, 17.2, 17.3, 18.4 |
 | [How to Build an Emergency Tool Kit for Your Motorcycle](https://www.youtube.com/watch?v=yXE_xrLsp3k) | ~10m | 00.2, 02.1, 02.3 |
 | [The 4-stroke engine, how does it work?](https://www.youtube.com/watch?v=s8mEXQXqA7Q) | ~8m | 01.1, 03.1, 03.2, 04.3, 05.1, 05.2 |
 | [How to Change Motorcycle Oil in Under 20 Minutes | The Shop Manual](https://www.youtube.com/watch?v=zvu-o7QyozU) | ~12m | 04.1, 04.2, 10.2, 15.2 |
@@ -26,3 +26,5 @@ Videos are externally hosted and embedded for educational convenience. Some high
 | [5 Things That Will Ruin Your Motorcycle's Handling](https://www.youtube.com/watch?v=ROv86QHRrH0) | ~10m | 14.3 |
 | [How to Modernize a Vintage Motorcycle | The Shop Manual](https://www.youtube.com/watch?v=QvVhaGdL9tI) | ~18m | 00.3, 06.2, 15.1, 15.3, 16.1, 16.2, 16.3 |
 | [How to Clean & Lube Your Motorcycle Chain (The Right Way) | The Shop Manual](https://www.youtube.com/watch?v=KRgG21OBjcE) | ~12m | 10.1, 10.3 |
+| [How to Change and Customize Ride Modes using Skyline OS — Road Glide](https://www.youtube.com/watch?v=NCIuxv2uj2k) | ~5m | 17.3 |
+| [How to Set a Route with Navigation and Skyline OS — Road Glide](https://www.youtube.com/watch?v=v0LUXK84Cd0) | ~4m | 17.4 |
