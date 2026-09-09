@@ -11,8 +11,13 @@ const config = {
   projectName: 'motorcycle-mechanic-course',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+  
   presets: [[
     'classic',
     {
