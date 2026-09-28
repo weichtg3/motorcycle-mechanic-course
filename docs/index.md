@@ -8,8 +8,8 @@ sidebar_position: 1
 
 A self-paced, hands-on motorcycle maintenance, diagnosis, repair and restoration course built around four V-twins spanning 30 years:
 
-- **1995 Harley-Davidson Sportster 883 Hugger**
-- **1996 Harley-Davidson Electra Glide Ultra Classic**
+- **1997 Harley-Davidson Sportster 883 Hugger**
+- **1995 Harley-Davidson Electra Glide Ultra Classic**
 - **1998 Honda Shadow Aero 1100**
 
 Start with the [complete course table of contents](./course-table-of-contents.md) or meet the [training motorcycles](./reference/training-motorcycles.md).

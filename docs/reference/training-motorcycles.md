@@ -5,11 +5,11 @@ sidebar_position: 1
 
 # The four training motorcycles
 
-## 1995 Harley-Davidson Sportster 883 Hugger
+## 1997 Harley-Davidson Sportster 883 Hugger
 
 Our compact Harley training platform. It teaches air-cooled Evolution-engine fundamentals, carburetion, cable controls, primary/clutch/transmission relationships and belt final drive in a relatively accessible chassis.
 
-## 1996 Harley-Davidson Electra Glide Ultra Classic (FLHTCU)
+## 1995 Harley-Davidson Electra Glide Ultra Classic (FLHTCU)
 
 Our touring Harley platform. Period references identify the model with a **carbureted 1340 Evolution engine** and **belt final drive**. The fairing, luggage, accessory circuits and greater vehicle mass make it ideal for learning access planning, electrical diagnosis and heavier chassis/service considerations.
 
@@ -27,7 +27,7 @@ Model-year references are useful for orientation, but exact torque values, fluid
 
 ## Comparison at a glance
 
-| Area | 1995 Sportster 883 Hugger | 1996 Ultra Classic | 1998 Shadow Aero 1100 | 2025 Road Glide |
+| Area | 1997 Sportster 883 Hugger | 1995 Ultra Classic | 1998 Shadow Aero 1100 | 2025 Road Glide |
 |---|---|---|---|---|
 | Engine family | Harley Evolution Sportster V-twin | Harley Evolution Big Twin | Honda V-twin | Harley Milwaukee-Eight 117 |
 | Cooling | Air-cooled | Air-cooled | Liquid-cooled | Air/oil + liquid-cooled cylinder heads |
