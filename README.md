@@ -2,8 +2,8 @@
 
 A complete static educational course built around:
 
-- 1995 Harley-Davidson Sportster 883 Hugger
-- 1996 Harley-Davidson Electra Glide Ultra Classic
+- 1997 Harley-Davidson Sportster 883 Hugger
+- 1995 Harley-Davidson Electra Glide Ultra Classic
 - 1998 Honda Shadow Aero 1100
 - 2025 Harley-Davidson Road Glide
 
